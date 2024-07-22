@@ -1,3 +1,3 @@
 # SQL-Retrieval
+![SQL Q A](https://github.com/user-attachments/assets/51149042-1e05-41d5-ae84-5f6777ed2b2b)
 
-![SQL Q A](https://github.com/user-attachments/assets/ae909bfb-0069-409a-9fd1-1ed7d0e58472)
