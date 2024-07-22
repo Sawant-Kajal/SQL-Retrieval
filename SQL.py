@@ -58,9 +58,13 @@ prompt = [
 ]
 
 #######################################################################################
-# Example usage
-st.set_page_config(page_title="SQL-GPT")
-st.header("Large Learning Model To Retrieve SQL Data")
+st.set_page_config(page_title="SQL-Retrieval")  # st.title(':rainbow[RESUME SPECTRUM]')
+# Add a header with a teal color gradient
+st.markdown(
+    f'<h1 style="background-image: linear-gradient(to right,#e3f988, #9ab973, #8a9a5b, #4a5d23); 
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;">SQL-Retrieval</h1>',
+    unsafe_allow_html=True
+)
 
 question = st.text_input("Input: ", key="input")
 
