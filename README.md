@@ -1,2 +1,3 @@
 # SQL-Retrieval
-![SQL App View].("C:\KAJAL\Data Science\SQL GPT\SQL Q&A.png")
+
+![SQL Q A](https://github.com/user-attachments/assets/ae909bfb-0069-409a-9fd1-1ed7d0e58472)
