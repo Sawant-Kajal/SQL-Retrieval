@@ -7,11 +7,11 @@ from dotenv import load_dotenv
 
 load_dotenv()  # Load environment variables
 #######################################################################################
-genai.configure(api_key="AIzaSyD0KzF5ER-XYvvAVzuCRT3Lq_TcWzlhP-o") # Gemini LLM(Large Learning Model)
+genai.configure(api_key="API KEY") # Gemini LLM(Large Learning Model)
 server = "127.0.0.1"
 database = "ATS_resume"
 username = "root"
-password = "Kajal@123"
+password = "xyz@123"
 #######################################################################################
 
 def get_gemini_response(question, prompt):
